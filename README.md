@@ -1,7 +1,7 @@
 # Client-Server-Database
 This project was developed as part of Systems Programming (CS 3377) at UT Dallas. It implements a lightweight client-server database using C, TCP/IP sockets, and multi-threading.
 
-Features
+# Features
 
 Client-Server Communication: Built with TCP sockets for reliable request/response handling.
 
@@ -13,7 +13,7 @@ Persistent Storage: Stores records in a binary file to simulate a simple databas
 
 Error Handling: Includes safeguards for incomplete messages, invalid input, and dropped connections.
 
-Skills Demonstrated
+# Skills Demonstrated
 
 Systems-level programming in C
 
